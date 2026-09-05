@@ -11,3 +11,7 @@ My_son_age <- 20
 Wife <- "Maria"
 class(Wife)
 class(My_son_age)
+age <- 10
+10+10
+10-10
+10+25
